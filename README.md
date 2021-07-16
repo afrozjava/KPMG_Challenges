@@ -1,4 +1,4 @@
-ech Challenge
+Tech Challenge
 
 This project consist of three challenges mostly on Cloud and programming.
 
